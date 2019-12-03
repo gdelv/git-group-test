@@ -1,3 +1,2 @@
 # git-group-test
-const name = "Jeremy Rose";
-
+const name = 'g-man'
